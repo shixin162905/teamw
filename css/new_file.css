@@ -1,0 +1,151 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	min-width: 1500px;
+}
+.main{
+	background: linear-gradient(to top,rgb(7,3,9),rgb(65,26,75));
+	width: 100%;
+	height: 800px;
+	overflow: hidden;
+}
+.logo_one{
+	position: absolute;
+	top: 40px;
+	left: 80px;
+	background-color: rgb(205,163,22);
+	width: 140px;
+	height: 40px;
+}
+.logo_two{
+	width: 140px;
+	position: absolute;
+	top: 40px;
+	left: 160px;
+}
+.circle_big{
+	width: 480px;
+	height: 480px;
+	border-radius: 240px;
+	position: relative;
+	left: 80%;
+	top: -250px;
+	background:linear-gradient(to bottom,rgb(83,33,65),rgb(45,18,20)) ;
+}
+.circle_bg{
+	width: 336px;
+	height: 336px;
+	border-radius: 168px;
+	background-color: rgb(51,21,26);
+	position: relative;
+	bottom: 300px;
+    margin: auto auto;
+}
+.circle_main{
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	background-color: rgb(228,94,1);
+	margin: auto auto;
+}
+.circle_one{
+	width: 18px;
+	height: 18px;
+	border-radius: 9px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom: 120px;
+	left: 150px;
+}
+.circle_two{
+	width: 14px;
+	height: 14px;
+	border-radius: 7px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom:240px;
+	left: 480px;
+}
+.circle_three{
+	width: 30px;
+	height: 30px;
+	border-radius: 15px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom: 160px;
+	left: 380px;
+}
+.circle_four{
+	width: 22px;
+	height: 22px;
+	border-radius: 11px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom: 520px;
+	left: 450px;
+}
+.circle_five{
+	width: 18px;
+	height: 18px;
+	border-radius: 9px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom: 370px;
+	left: 400px;
+}
+.circle_six{
+	width: 18px;
+	height: 18px;
+	border-radius: 9px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom: 400px;
+	left: 200px;
+}
+.circle_seven{
+	width: 34px;
+	height: 34px;
+	border-radius: 17px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom: 500px;
+	left: 1100px;
+}
+.circle_eight{
+	width:18px;
+	height: 18px;
+	border-radius: 9px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom: 440px;
+	left: 1000px;
+}
+.circle_nine{
+	width: 18px;
+	height: 18px;
+	border-radius: 9px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom: 350px;
+	left: 1200px;
+}
+.circle_ten{
+	width: 12px;
+	height: 12px;
+	border-radius: 6px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom: 320px;
+	left: 1350px;
+}
+.circle_eleven{
+	width: 22px;
+	height:22px;
+	border-radius: 11px;
+	background-color: rgb(228,94,1);
+	position: absolute;
+	bottom: 200px;
+	left: 1130px;
+}
